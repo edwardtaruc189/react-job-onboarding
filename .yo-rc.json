@@ -1,0 +1,25 @@
+{
+  "generator-react-firebase": {
+    "promptValues": {
+      "githubUser": "testuser",
+      "firebaseName": "hiredbyreact",
+      "firebaseKey": "AIzaSyBeDVXES100j7po8MBfXFCPOIHBik9bYHk",
+      "includeRedux": true,
+      "includeFirestore": false,
+      "otherFeatures": [
+        "Continuous Integration config",
+        "Firebase Cloud Messaging",
+        "Firebase Functions (with ESNext support)",
+        "Tests for Firebase Functions (Mocha + Chai)",
+        "Tests for React Components (Jest)",
+        "Google Analytics (react-ga)",
+        "Error Tracking (Sentry.io)",
+        "Client Side Error Reporting (Stackdriver)"
+      ],
+      "messagingSenderId": "723299675655",
+      "firebasePublicVapidKey": "",
+      "ciProvider": "gitlab",
+      "deployTo": "firebase"
+    }
+  }
+}
